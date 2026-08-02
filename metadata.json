@@ -1,0 +1,6 @@
+{
+  "name": "My Network Information Dashboard",
+  "description": "Real-time network, system, browser, screen, and location telemetry dashboard with Neo-Brutalism Dark UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
