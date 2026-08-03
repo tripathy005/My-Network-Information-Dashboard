@@ -758,7 +758,8 @@ export default function App() {
           <div className="flex items-center gap-4 text-[11px]">
             <span>Provider: {networkData?.providerUsed || 'IP Engine'}</span>
             <span>•</span>
-            <span>Status: {isOnline ? '🟢 Connected' : '🔴 Disconnected'}</span>
+            <span>Status: {isOnline ? '🟢 Connected' : '🔴 Disconnected'}</span>•
+            <span>Devloped bt @tripathy05</span>
           </div>
         </div>
       </footer>
